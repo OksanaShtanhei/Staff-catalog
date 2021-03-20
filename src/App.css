@@ -1,0 +1,13 @@
+.App{
+  margin: 3vh 3vw;
+
+}
+.visible{
+  display: block;
+}
+.text-block{
+  width: 50vw;
+}
+.text-block h3{
+  text-transform: capitalize;
+}
